@@ -7,7 +7,7 @@
 *by Nikkhil Deshmukkh · Version 3.1.1 (test version)*
 
 <!-- web-only -->
-## ⬇️ [Download Pahara for Windows](https://github.com/keedaaa/pahara-downloads/releases/latest/download/Pahara-Setup.exe)
+## ⬇️ [Download Pahara for Windows](https://github.com/keedaaa/pahara-downloads/raw/main/Pahara-Setup.exe)
 
 Windows 10 or 11 (64-bit) · about 20 MB · free for testers
 <!-- /web-only -->
@@ -31,7 +31,7 @@ You need four things:
 
 ## Step 1 – Install Pahara
 
-1. Click **[Download Pahara for Windows](https://github.com/keedaaa/pahara-downloads/releases/latest/download/Pahara-Setup.exe)**.
+1. Click **[Download Pahara for Windows](https://github.com/keedaaa/pahara-downloads/raw/main/Pahara-Setup.exe)**.
 2. Your browser may warn you, because the test version is new and not yet signed with a paid certificate:
    - **Edge:** "Pahara-Setup.exe isn't commonly downloaded". Click **⋯**, then **Keep**, then **Show more**, then **Keep anyway**.
    - **Chrome:** click **Keep**.
@@ -185,7 +185,7 @@ Please send these to Nikhil (WhatsApp is fine):
 - The PC must be at the same place as the DVR / NVR, on the same network.
 - After the PC restarts, open Pahara and press **Start monitoring** again.
 <!-- web-only -->
-- **Can't run the installer** (for example, an office PC that blocks installs)? Download the **[zip version](https://github.com/keedaaa/pahara-downloads/releases/latest/download/Pahara-Live-Windows.zip)** instead. Right-click it, choose **Properties**, tick **Unblock** and click **OK**. Then right-click it again, choose **Extract All**, open the folder and double-click **Start Pahara**.
+- **Can't run the installer** (for example, an office PC that blocks installs)? Download the **[zip version](https://github.com/keedaaa/pahara-downloads/raw/main/Pahara-Live-Windows.zip)** instead. Right-click it, choose **Properties**, tick **Unblock** and click **OK**. Then right-click it again, choose **Extract All**, open the folder and double-click **Start Pahara**.
 <!-- /web-only -->
 
 ---
